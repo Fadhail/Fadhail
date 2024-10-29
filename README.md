@@ -1,16 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fadhail</h1>
-<h3 align="center">A Computer Engineering student with a strong interest in the world of technology.</h3>
-
 <img align="right" alt="Coding is Fun" src="https://64.media.tumblr.com/26374943fcc9ac9d42c1c106c4d521bf/tumblr_p5reygg7TP1rqrxg3o1_1280.gifv">
-
-- 🌱 I’m currently learning **NextJs**
-
-- 📫 How to reach me **mochammadfadhail2@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/moch.fadhail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moch.fadhail" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
