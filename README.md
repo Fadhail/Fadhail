@@ -17,18 +17,21 @@
 
 ### 🏆 Achievements
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Fadhail&theme=darkhub&no-bg=true&no-frame=true&row=1" width='100%' />
+<img src="https://github-profile-trophy.vercel.app/?username=Fadhail&theme=city_lights" alt="Fadhail's Achievements"/>
 </p>
 
 ---
 
 ### 📈 Contribution Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fadhail&show_icons=true&count_private=true&include_all_commits=true&theme=nightowl&hide_border=true" width="55%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fadhail&theme=nightowl&hide_border=true" width="55%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fadhail&theme=nightowl&layout=compact&hide_border=true" width="55%" />
-</p>
+<div align="center">
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fadhail&theme=city_lights" alt="Fadhail's Profile Details" />
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fadhail&theme=city_lights" alt="Fadhail's Repos per Language" />
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fadhail&theme=city_lights" alt="Fadhail's Most Commit Language" />
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fadhail&theme=city_lights" alt="Fadhail's Stats" />
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fadhail&theme=city_lights&utcOffset=8" alt="Fadhail's Productive Time" />  
+</div>
+
 
 ---
 
